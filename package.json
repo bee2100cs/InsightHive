@@ -1,0 +1,12 @@
+{
+    "name": "InsightHive",
+    "description": "A theme for interview based websites",
+    "version": "0.001",
+    "engines": {
+        "ghost": ">=0.0.1"
+    },
+    "author": {
+        "name": "Bryan Muchai",
+        "email": "bee2100cs@gmail.com",
+    }
+}
